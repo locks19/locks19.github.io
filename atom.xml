@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://locks19.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-06-25T02:32:39.083Z</updated>
+    <title>locks</title>
+    <updated>2020-06-25T02:40:36.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://locks19.github.io"/>
     <link rel="self" href="https://locks19.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>个人网站</subtitle>
     <logo>https://locks19.github.io/images/avatar.png</logo>
     <icon>https://locks19.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, locks</rights>
+    <entry>
+        <title type="html"><![CDATA[B站主页]]></title>
+        <id>https://locks19.github.io/bilibili/</id>
+        <link href="https://locks19.github.io/bilibili/">
+        </link>
+        <updated>2020-06-25T02:34:03.000Z</updated>
+        <content type="html"><![CDATA[<p>locks的主页：https://space.bilibili.com/400732775</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实用网站]]></title>
+        <id>https://locks19.github.io/usefulWeb/</id>
+        <link href="https://locks19.github.io/usefulWeb/">
+        </link>
+        <updated>2020-06-25T02:32:47.000Z</updated>
+        <content type="html"><![CDATA[<p>蓝奏云 https://pc.woozooo.com/ （网盘）<br>
+优点：不限速 不限下载量 ，缺点：需登陆 只能传100M里的文件</p>
+<p>奶牛快传 https://cowtransfer.com/（网盘）<br>
+优点：无需登陆 不限速 不限传送大小，缺点：限下载量</p>
+<p>ParseVideo https://pv.vlogdownloader.com/（下载视频）<br>
+优点：可以下载绝大多数国内视频，缺点：下载不了国外的视频</p>
+<p>VideoGrabber https://www.videograbber.net/（下载视频）<br>
+可以下载国外的视频</p>
+<p>英语词典 https://www.oxfordlearnersdictionaries.com/definition/english/（词典）<br>
+英英解释，短语全</p>
+]]></content>
+    </entry>
 </feed>
